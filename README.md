@@ -3,9 +3,9 @@
 Estimate the Crop Yield using Data Analytics
 
 Team Leader
-Sharika B
+Rohid Sai Ram B
 
 Team Members
-Santhiya V
-Sofia Christy V
-Soundariya V
+Sanjay S
+Sai Krishna V
+Santhosh K
